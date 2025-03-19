@@ -4,3 +4,5 @@
 
 
 [There is some Websites where all steps is mentioned](https://www.hellotech.com/guide/for/how-to-create-windows-10-bootable-usb#:~:text=To%20create%20a%20Windows%2010%20bootable%20USB%2C%20download%20the%20Media,to%20your%20Windows%2010%20PC.)
+
+[There is one more Site](https://grok.lsu.edu/article.aspx?articleid=17870)
